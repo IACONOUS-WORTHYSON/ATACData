@@ -1,0 +1,22 @@
+{
+ "description": "Held-out quality-per-byte gain from allocating a fixed byte budget by measured per-tensor damage, vs uniform Q4_1 at identical size.",
+ "metric": "ratio = KL(uniform_q4_1) / KL(allocated); >1 means allocation is closer to f32.",
+ "cross_scale": {
+  "Qwen2-0.5B": {
+   "held_mean": 1.256,
+   "wins": 2,
+   "n": 3
+  },
+  "Qwen3-4B": {
+   "held_mean": 1.332,
+   "wins": 2,
+   "n": 3
+  },
+  "Qwen3-8B": {
+   "held_mean": 2.219,
+   "wins": 3,
+   "n": 3
+  }
+ },
+ "per_role_sensitivity_note": "See data/Qwen2-0.5B/sensitivity.json for the -0.031 Spearman of reconstruction error vs real logit damage."
+}

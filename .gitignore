@@ -1,0 +1,5 @@
+# OS / editor cruft — this is a data repository, keep it clean
+.DS_Store
+Thumbs.db
+*.tmp
+~$*

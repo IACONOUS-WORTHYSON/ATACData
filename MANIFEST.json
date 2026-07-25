@@ -1,0 +1,56 @@
+{
+ "dataset": "Precision-Allocation-Data",
+ "issuance": "75AV-EX-002",
+ "files": [
+  {
+   "path": "activation/zone_matrix.json",
+   "bytes": 2236,
+   "sha256": "57a5bcd178f30b2a91c7d2d1d19552dd5245e21123a56c7a72f8e724639d8b06"
+  },
+  {
+   "path": "compression_sweep.json",
+   "bytes": 77689,
+   "sha256": "b50d3241b7d0c610253643caaf355f859b0b2f154db4e763659a207f245d10ad"
+  },
+  {
+   "path": "cross_scale_summary.json",
+   "bytes": 636,
+   "sha256": "641f3d2e887c196f6be0495c416a2b24ff58666764188a8e22a05b3ca533a6ea"
+  },
+  {
+   "path": "data/Qwen2-0.5B/allocation.json",
+   "bytes": 531,
+   "sha256": "bc83cdf84372cd2973388005fcea7da7e1766719f682dae6d08b9aaacacf2bea"
+  },
+  {
+   "path": "data/Qwen2-0.5B/sensitivity.json",
+   "bytes": 287,
+   "sha256": "814f94fc5272ebcfe9a60f40d9c6dc7cfd4088c59de13102df8607598fd6c3c2"
+  },
+  {
+   "path": "data/Qwen3-4B/allocation.json",
+   "bytes": 532,
+   "sha256": "ee13a7c38f6e98dda7a34901960c37ea81f16943041716e1ae751a6933bb1a1f"
+  },
+  {
+   "path": "data/Qwen3-4B/damage_table.json",
+   "bytes": 93126,
+   "sha256": "f4e45f000f96d68d975b743f7e1fc09743878bf8ed57444bc20f55297edfee2c"
+  },
+  {
+   "path": "data/Qwen3-8B/allocation.json",
+   "bytes": 533,
+   "sha256": "6a744cee27469c43a9aa14cd327021b3a461569917548c774c26ef0fe749016c"
+  },
+  {
+   "path": "data/Qwen3-8B/damage_table.json",
+   "bytes": 93322,
+   "sha256": "11534a64a3cdac06308ee25ef13b9afdbf9ed0bed427a29aad55500ebd1536be"
+  },
+  {
+   "path": "summary.xlsx",
+   "bytes": 13375,
+   "sha256": "68ca0e906688a64e25217270d5e646fd52685051b669dc61e7bf46afb9292911"
+  }
+ ]
+}

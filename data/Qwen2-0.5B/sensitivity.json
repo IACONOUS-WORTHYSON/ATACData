@@ -1,0 +1,14 @@
+{
+ "per_role_mean_kl": {
+  "q_proj": 5.345e-05,
+  "k_proj": 8.153e-05,
+  "v_proj": 0.00124533,
+  "o_proj": 0.00019717,
+  "gate_proj": 0.00030297,
+  "up_proj": 0.00067887,
+  "down_proj": 0.00135801,
+  "other": 0.01583423
+ },
+ "spearman_te_vs_kl": -0.0309,
+ "n_tensors": 169
+}
