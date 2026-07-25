@@ -7,8 +7,10 @@
  "date_of_issue": "2026-07-25",
  "notice": "For your eyes only: view permitted, all copying forbidden.",
  "deposit": {
-  "zenodo_doi": "<pending>",
-  "opentimestamps": "<pending: .ots over this MANIFEST.json>"
+  "zenodo_concept_doi": "10.5281/zenodo.21545816",
+  "zenodo_version_doi_v1_0_0": "10.5281/zenodo.21545817",
+  "zenodo_url": "https://doi.org/10.5281/zenodo.21545816",
+  "opentimestamps": "MANIFEST.json.ots -- Bitcoin-anchored timestamp over this manifest"
  },
  "hash_algorithm": "sha256",
  "files": [
@@ -69,8 +71,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 9794,
-   "sha256": "05869473dd09503b4ce1f3e1c9d6e231abc88fa8a008fd1fa3d8b874ea7b0897"
+   "bytes": 10953,
+   "sha256": "d6f80ffa4c4b293ecf4831327557929e5bc2fef974ee28f1bd003fbb54ae6bd1"
   },
   {
    "path": "summary.xlsx",

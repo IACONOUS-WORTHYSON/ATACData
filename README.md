@@ -1,5 +1,7 @@
 # ATACData
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21545816.svg)](https://doi.org/10.5281/zenodo.21545816)
+
 > ⊚ **FOR YOUR EYES ONLY.** This repository is published under The 75th Avenue License —
 > **For-Your-Eyes-Only (FYEO) Edition v1.0**, Issuance No. **75AV-FYEO-001**. You are
 > granted **one** right: to *look*. Cloning, copying, downloading for retention, forking,
@@ -162,19 +164,23 @@ violation, dated and public before the copy could exist. Enforcement is by **pro
 lock**. If physical impossibility of copying is ever required, the only real route is to not
 publish openly at all — keep the Deposit private and grant view access individually.
 
-**Deposit anchors:**
+The two anchors reference each other: the Zenodo record archives this repository (including
+its OpenTimestamps proof), and this repository's manifest records the Zenodo DOI. Each fixes
+the other.
 
-- **OpenTimestamps proof: [`MANIFEST.json.ots`](MANIFEST.json.ots)** — created **2026-07-25**.
-  It timestamps the SHA-256 of `MANIFEST.json`
-  (`2cdfabdcae9f6ee44e925b81e63fcbadaf0928c030dfbcd7adbc676bb4b6f56a`), and because that
-  manifest carries the SHA-256 of every other file, this single proof fixes the entire
-  deposit — the `LICENSE` included. Submitted to the OpenTimestamps calendars
-  `bob.btc.calendar.opentimestamps.org` and `btc.calendar.catallaxy.com`; the Bitcoin block
-  attestation is pending (it bakes in after the next calendar aggregation — upgrade it with
-  `ots upgrade MANIFEST.json.ots`, a few hours out).
+- **Zenodo DOI — the permanent, citable Immutable Deposit** (FYEO license, Article I):
+  - All versions (concept DOI, always resolves to the latest — **cite this one**):
+    **[10.5281/zenodo.21545816](https://doi.org/10.5281/zenodo.21545816)**
+  - This version, v1.0.0: [10.5281/zenodo.21545817](https://doi.org/10.5281/zenodo.21545817)
+
+- **OpenTimestamps proof: [`MANIFEST.json.ots`](MANIFEST.json.ots)** — a Bitcoin-anchored
+  timestamp over `MANIFEST.json`. Because that manifest carries the SHA-256 of every other
+  file *and* the Zenodo DOI, this single proof fixes the entire deposit — the `LICENSE` and
+  the DOI binding included. Submitted 2026-07-25 to the public OpenTimestamps calendars; the
+  Bitcoin block attestation bakes in after the next calendar aggregation (upgrade with
+  `ots upgrade MANIFEST.json.ots`).
   **Verify independently, trusting no one:** drop `MANIFEST.json` and `MANIFEST.json.ots`
   together at <https://opentimestamps.org>, or run `ots verify MANIFEST.json.ots`.
-- Zenodo DOI: `<pending deposit>` — to be minted when/if you archive to Zenodo.
 
 Required attribution notice, unmodified:
 
