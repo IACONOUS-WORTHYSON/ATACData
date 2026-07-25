@@ -162,10 +162,19 @@ violation, dated and public before the copy could exist. Enforcement is by **pro
 lock**. If physical impossibility of copying is ever required, the only real route is to not
 publish openly at all — keep the Deposit private and grant view access individually.
 
-**Deposit anchors** (to be filled in at publication):
+**Deposit anchors:**
 
-- Zenodo DOI: `<pending deposit>`
-- OpenTimestamps proof: `<pending — timestamp of MANIFEST.json>`
+- **OpenTimestamps proof: [`MANIFEST.json.ots`](MANIFEST.json.ots)** — created **2026-07-25**.
+  It timestamps the SHA-256 of `MANIFEST.json`
+  (`2cdfabdcae9f6ee44e925b81e63fcbadaf0928c030dfbcd7adbc676bb4b6f56a`), and because that
+  manifest carries the SHA-256 of every other file, this single proof fixes the entire
+  deposit — the `LICENSE` included. Submitted to the OpenTimestamps calendars
+  `bob.btc.calendar.opentimestamps.org` and `btc.calendar.catallaxy.com`; the Bitcoin block
+  attestation is pending (it bakes in after the next calendar aggregation — upgrade it with
+  `ots upgrade MANIFEST.json.ots`, a few hours out).
+  **Verify independently, trusting no one:** drop `MANIFEST.json` and `MANIFEST.json.ots`
+  together at <https://opentimestamps.org>, or run `ots verify MANIFEST.json.ots`.
+- Zenodo DOI: `<pending deposit>` — to be minted when/if you archive to Zenodo.
 
 Required attribution notice, unmodified:
 
