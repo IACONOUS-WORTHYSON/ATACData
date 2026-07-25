@@ -1,4 +1,9 @@
-# Precision-Allocation-Data
+# ATACData
+
+> ⊚ **FOR YOUR EYES ONLY.** This repository is published under The 75th Avenue License —
+> **For-Your-Eyes-Only (FYEO) Edition v1.0**, Issuance No. **75AV-FYEO-001**. You are
+> granted **one** right: to *look*. Cloning, copying, downloading for retention, forking,
+> mirroring, executing, and redistribution are **prohibited** — see [`LICENSE`](LICENSE).
 
 **Per-tensor damage tables and precision-allocation measurements for three
 transformer models.** This repository is *data only* — the measured record behind a
@@ -134,15 +139,39 @@ each of 5 chip regions during a real forward pass. Supporting observational data
 
 ---
 
-## License
+## License — For Your Eyes Only
 
-Governed by **The 75th Avenue License — Exclusive Edition v1.0**, Issuance No. **75AV-EX-002**
-(see [`LICENSE`](LICENSE)). Commercially issued: no use is granted without a written license.
-Reading and studying the data to evaluate a license is free; executing, incorporating, or
-redistributing it is not. **AI-training use is prohibited absolutely** (Article III).
+Governed by **The 75th Avenue License — For-Your-Eyes-Only (FYEO) Edition v1.0**,
+Issuance No. **75AV-FYEO-001** (see [`LICENSE`](LICENSE)). This is the framework's most
+restrictive edition. It grants exactly one right — **sight**:
 
-    Precision-Allocation-Data — Created by IACONOUS WORTHYSON .
-    Licensed under The 75th Avenue License — Exclusive Edition v1.0 . Issuance No. 75AV-EX-002
+- **Permitted:** viewing, reading, and inspecting this data in place, for your own private
+  evaluation.
+- **Prohibited absolutely** (Article III): cloning (`git clone`, fork, or equivalent),
+  copying, downloading for retention, mirroring, re-hosting, redistribution, execution,
+  derivation, and **AI-training use of any kind**.
+
+**How "view-only" is enforced — honestly.** No license and no archive can *physically*
+stop someone who can read a file from copying it; a git repository is clonable by anyone who
+can see it, and this instrument does not pretend otherwise (Article IV §4.1). What makes the
+prohibition real is the **Immutable Deposit** (Article I): the authoritative master is
+anchored by a **Zenodo DOI** (fixing exactly *what* the data is) and an **OpenTimestamps /
+Bitcoin** proof (fixing exactly *when* it existed). Any copy appearing anywhere else is then
+*provably* the holder's property, prior in time, and taken in breach — a self-proving
+violation, dated and public before the copy could exist. Enforcement is by **proof, not by
+lock**. If physical impossibility of copying is ever required, the only real route is to not
+publish openly at all — keep the Deposit private and grant view access individually.
+
+**Deposit anchors** (to be filled in at publication):
+
+- Zenodo DOI: `<pending deposit>`
+- OpenTimestamps proof: `<pending — timestamp of MANIFEST.json>`
+
+Required attribution notice, unmodified:
+
+    ATACData — Created by IACONOUS WORTHYSON . Licensed under The 75th Avenue License —
+    For-Your-Eyes-Only Edition v1.0 . Issuance No. 75AV-FYEO-001 . For your eyes only:
+    view permitted, all copying forbidden.
 
 Built upon ATAC (Alien Transformer Architecture Complete) and CAR (Composed Arithmetic
 Primitives). This dataset is a separate work from the ATAC/CAR source repository.

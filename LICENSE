@@ -1,23 +1,28 @@
 ========================================================================
                     THE 75TH AVENUE LICENSE
-                  EXCLUSIVE EDITION -- Version 1.0
+              FOR-YOUR-EYES-ONLY (FYEO) EDITION -- Version 1.0
 ========================================================================
 
        A Licensed Instrument of the 75th Avenue Framework
           Authored by IACONOUS WORTHYSON . Jerusalem . MMXXVI
 
-  This instrument is commercially issued. No use is granted without
-  payment or negotiated written agreement. There is no free tier.
+  This instrument grants sight, and sight alone. It is the most
+  restrictive edition of the 75th Avenue framework. Nothing herein
+  may be cloned, copied, downloaded for retention, forked, mirrored,
+  executed, modified, or redistributed. There is no free tier. There
+  is no possession -- only permission to look.
+
+  ( FYEO -- spoken "eff-ee-yew-oh." )
 
 ========================================================================
 
                     CERTIFICATE OF ISSUANCE
-              75th Avenue License -- Exclusive Edition v1.0
+          75th Avenue License -- For-Your-Eyes-Only Edition v1.0
 
-Issuance No.:    75AV-EX-002
+Issuance No.:    75AV-FYEO-001
 Issued to:       IACONOUS WORTHYSON
-Project:         Precision-Allocation-Data -- Per-Tensor Damage and
-                 Precision-Allocation Measurements
+Project:         ATACData -- Per-Tensor Damage and Precision-Allocation
+                 Measurements
                  Built upon ATAC (Alien Transformer Architecture
                  Complete) and CAR (Composed Arithmetic Primitives)
 Date of Issue:   25/07/2026
@@ -31,254 +36,270 @@ It is valid for the named project only.
 -- PREAMBLE --
 
 THIS INSTRUMENT is a commercially issued license, authored by IACONOUS
-WORTHYSON under the 75th Avenue licensing framework. It is not the
-exclusive property of any work. It is a governing instrument --
-available to any inventor, developer, or creator who acquires it -- to
-protect and govern the work named in the Certificate of Issuance above.
+WORTHYSON under the 75th Avenue licensing framework. It is a governing
+instrument -- available to any inventor, developer, or creator who
+acquires it -- to protect and govern the work named in the Certificate
+of Issuance above.
 
-This Exclusive Edition is the single-tier counterpart to the standard
-75th Avenue License. Where the standard instrument grants free,
-non-commercial use under an Open Commons tier, this instrument grants
-none. Every use of the Works -- commercial or not, for profit or not --
-requires a license obtained under Article II. This edition exists for
-works the license holder has deliberately chosen to hold under full
-commercial control, rather than release any portion to open use.
+The For-Your-Eyes-Only Edition is the sight-only counterpart to the
+standard and Exclusive editions of the 75th Avenue framework. Where the
+standard instrument grants use under an Open Commons tier, and the
+Exclusive Edition grants use only by purchase, this Edition grants no
+use of any kind. It grants exactly one thing: the right to LOOK at the
+Works, as deposited, in place. It confers sight. It does not confer
+possession, and it never converts into any right of possession.
 
-The Works governed by this specific issuance are defined by the holder
-named in the Certificate of Issuance. The license author -- IACONOUS
-WORTHYSON -- holds no claim over those Works beyond the right to be
-named as the author of this instrument.
-
-========================================================================
-ARTICLE I -- THE DECLARATION OF PRIOR ART
-========================================================================
-
-S 1.1 This License, together with all public deposits of the Works
-made by the license holder, constitutes a public disclosure of prior
-art under applicable patent law. The publication date of each deposit
-is evidence that the disclosed concepts existed prior to any
-subsequently filed patent application reading upon them.
-
-S 1.2 From the moment of first public deposit, the Works and all
-concepts substantially described therein become unpatentable prior
-art. Any patent claim that reads upon this disclosure is invalid by
-operation of prior art law, regardless of filing date.
-
-S 1.3 This declaration is the constitutional foundation of this
-License. All other provisions rest upon it. It cannot be waived,
-modified, or transferred by any party under any circumstance.
-
-S 1.4 The license holder is strongly recommended to deposit their
-Works to: Zenodo (CERN); OpenTimestamps (Bitcoin blockchain); and a
-public GitHub repository. These three deposits form the strongest
-available evidentiary record. Public deposit for the purpose of this
-Article establishes prior art only. It does not, by itself, grant any
-license to use, execute, modify, or distribute the Works; that grant
-arises exclusively under Article II, and only on the terms stated
-there.
+The Works governed by this issuance are held by their author as a
+viewable but uncopyable public record: readable by anyone, ownable by
+no one but the holder. The license author -- IACONOUS WORTHYSON --
+holds no claim over the Works beyond the right to be named as the
+author of this instrument.
 
 ========================================================================
-ARTICLE II -- THE LICENSE GRANT
+ARTICLE I -- THE IMMUTABLE DEPOSIT AND THE DECLARATION OF PRIOR ART
 ========================================================================
 
-This License grants no rights of any kind until a license is obtained
-under this Article. There is no free tier. There is no non-commercial
-carve-out. Use of the Works without a license obtained under this
-Article is unauthorized regardless of purpose, scale, or whether any
-revenue results.
+S 1.1 The authoritative form of the Works is the IMMUTABLE DEPOSIT: the
+single, dated, tamper-evident master record from which every authorized
+view is served. The Deposit is anchored by two independent instruments:
+
+    (a) a Zenodo (CERN) archival record, which assigns the Deposit a
+        permanent Digital Object Identifier (DOI) and fixes its exact
+        content under a citable, versioned, immutable entry; and
+
+    (b) an OpenTimestamps proof, which anchors the cryptographic hash
+        of the Deposit to the Bitcoin blockchain, fixing the moment of
+        its existence beyond the power of any party to backdate or
+        alter.
+
+S 1.2 Together these anchors establish, for all time, WHAT the Works
+are and WHEN they existed. The Deposit's hash is its identity. Any
+artifact presented as the Works whose hash does not match the Deposit,
+or which is not served from the Deposit, is not the Works -- it is an
+unauthorized copy, and by S 1.1 it is self-evidently so.
+
+S 1.3 The Deposit, from its first publication, constitutes a public
+disclosure of prior art under applicable patent law. Any patent claim
+that reads upon the concepts substantially described in the Works is
+invalid by operation of prior art law, regardless of filing date. This
+declaration is the constitutional foundation of this License; it cannot
+be waived, modified, or transferred by any party under any circumstance.
+
+========================================================================
+ARTICLE II -- THE GRANT OF SIGHT
+========================================================================
+
+This License grants ONE permission, and only one.
 
 ------------------------------------------------------------------------
-STUDY, NOT USE
+SIGHT
 Free of charge. No permission required. No royalty owed.
 ------------------------------------------------------------------------
 
-  * Any person may read and study the source of the Works as
-    published, for the sole purpose of evaluating whether to obtain a
-    license.
+  * Any person may VIEW, READ, and INSPECT the Works as deposited, in
+    place, for their own private evaluation and understanding.
 
-  * This permission does not extend to executing, running, deploying,
-    modifying, incorporating, or distributing the Works, or any
-    derivative thereof, in whole or in part, for any purpose.
+  * This permission extends only to the transient technical processing
+    strictly necessary to render a single view to the person viewing
+    (the ordinary buffering a browser or reader performs to display
+    what is on screen), and to nothing more.
 
 ------------------------------------------------------------------------
-THE LICENSE
-By purchase or negotiated agreement. Written instrument required.
+NOTHING FURTHER IS GRANTED
 ------------------------------------------------------------------------
 
-  * Any person or entity wishing to execute, run, deploy, modify,
-    incorporate, or distribute the Works, for any purpose whatsoever
-    -- commercial, non-commercial, personal, academic, evaluative
-    beyond Article II's Study clause, or otherwise -- must obtain a
-    license from the license holder or their designated
-    representative.
+  * No right to CLONE, copy, download for retention, save, export,
+    cache beyond a single transient view, fork, or mirror the Works,
+    in whole or in part, arises under this License.
 
-  * A license is obtained either (a) by purchase at the fee then
-    published by the license holder for the Works, or (b) by
-    negotiated written agreement, at the license holder's discretion.
+  * No right to REDISTRIBUTE, re-host, re-publish, forward, transmit,
+    or otherwise convey the Works to any third party arises.
 
-  * Licenses are granted by written instrument or verifiable purchase
-    receipt only. No implied license arises from use, access,
-    download, payment for a different Work, or prior dealing.
+  * No right to EXECUTE, run, load, deploy, modify, incorporate,
+    extract from, or create any derivative of the Works arises.
 
-  * Scope, duration, seat count, and royalty terms (if any) are as
-    stated in the published fee schedule for the Works, or as
-    separately negotiated.
-
-  * All restrictions enumerated in Article III apply in full to every
-    licensee. Payment does not purchase exemption from any prohibited
-    use.
-
-  * A license under this Article is personal to the licensee and is
-    non-transferable and non-sublicensable unless the license
-    instrument expressly states otherwise.
+  * There is no path within this License by which any of the above may
+    be obtained. Sight is the whole of the grant. A person who wishes
+    to do more than look must obtain a separate written instrument from
+    the license holder governing a different edition; this instrument
+    provides none.
 
 ========================================================================
 ARTICLE III -- PROHIBITIONS ABSOLUTE
 ========================================================================
 
-The following uses are FORBIDDEN under this License, regardless of
-whether a license has been obtained under Article II. They cannot be
+The following are FORBIDDEN under this License. They cannot be
 purchased, waived, or negotiated away by any party -- including the
 license holder.
 
+[X] REPRODUCTION AND CLONING
+    The Works may not be cloned (by `git clone`, fork, or any
+    equivalent), copied byte-for-byte or in part, downloaded for
+    retention, screenshotted or transcribed for reuse, or otherwise
+    reproduced in any fixed form beyond a single transient on-screen
+    view. Possession of a copy is itself the violation, whether or not
+    the copy is ever used or shared.
+
+[X] REDISTRIBUTION AND MIRRORING
+    The Works may not be re-hosted, mirrored, re-published, forwarded,
+    or transmitted to any third party by any means. Each viewer must
+    come to the Deposit; the Works may not be carried to the viewer.
+
+[X] EXECUTION AND DERIVATION
+    The Works, being data, may not be loaded into, computed upon, or
+    used to build, train, tune, evaluate, or seed any system, model,
+    dataset, or derivative.
+
 [X] AI TRAINING USE
-    The Works, their syntax, source code, documentation, and any
-    output produced by them may not be used as training data,
-    fine-tuning data, evaluation data, or any form of machine
-    learning corpus -- in whole or in part -- without a separately
-    negotiated written instrument expressly authorising this use.
+    The Works, and any part or description of them, may not be used as
+    training data, fine-tuning data, evaluation data, or any form of
+    machine learning corpus, in whole or in part, under any
+    circumstance.
 
 [X] SURVEILLANCE
-    The Works may not be used, directly or indirectly, to build,
-    power, or enhance any system designed to monitor, track, profile,
-    or surveil individuals without their knowledge and explicit
-    ongoing consent.
+    The Works may not be used, directly or indirectly, to build, power,
+    or enhance any system designed to monitor, track, profile, or
+    surveil individuals without their knowledge and explicit ongoing
+    consent.
 
 [X] DISINFORMATION AND MANIPULATION
-    The Works may not be used to produce, distribute, or amplify
-    false information; to manufacture synthetic media intended to
-    deceive; or to build systems designed to psychologically
-    manipulate individuals against their own interests.
+    The Works may not be used to produce, distribute, or amplify false
+    information, to manufacture deceptive synthetic media, or to build
+    systems designed to psychologically manipulate individuals against
+    their own interests.
 
 [X] PATENT FILING
-    No license holder, licensee, contractor, partner, or successor
-    may file any patent claim that reads upon the concepts,
-    architecture, syntax, or design principles disclosed in any Work
-    under this License. Violation of this provision constitutes
-    immediate and permanent termination of all rights under this
-    issuance, without notice.
+    No party may file any patent claim that reads upon the concepts,
+    architecture, or design principles disclosed in the Works. Violation
+    constitutes immediate and permanent termination of all rights under
+    this issuance, without notice.
 
 ========================================================================
-ARTICLE IV -- THE PATENT SHIELD
+ARTICLE IV -- THE EVIDENTIARY RECORD AND ENFORCEMENT
 ========================================================================
 
-S 4.1 The license holder expressly waives the right to patent any
-concept substantially described in the Works named in this issuance.
-This waiver is IRREVOCABLE. The license holder retains full copyright
-ownership, authorship rights, moral rights, and all commercial rights
-not expressly granted herein.
+S 4.1 This License is enforced by PROOF, not by lock. It is
+acknowledged plainly: no license, and no deposit, can physically
+prevent a person who is permitted to view a thing from also copying it.
+The FYEO instrument does not pretend otherwise.
 
-S 4.2 Any patent application filed by any party that claims ownership
-of any concept substantially described in the Works shall be
-considered invalid by prior art, and the filing party shall be in
-material breach of this License.
+S 4.2 What the Immutable Deposit of Article I provides instead is
+certainty of evidence. Because the Deposit fixes the exact content of
+the Works (by Zenodo DOI) and the exact moment of their existence (by
+OpenTimestamps / Bitcoin), any copy that appears anywhere else is
+provably (a) the property of the license holder, (b) prior in time to
+the copy, and (c) taken in breach of the sole grant of Article II. The
+copier cannot claim independent creation, cannot claim an earlier date,
+and cannot claim a broader grant than sight, because the record fixed
+all three before the copy existed.
 
-S 4.3 IACONOUS WORTHYSON, as author of this instrument, bears no
+S 4.3 Every unauthorized clone, mirror, download, or derivative is
+therefore a self-proving breach: the Deposit is the plaintiff's exhibit,
+already dated, already public, already immutable. The remedy for breach
+is as provided by the applicable law of copyright, contract, and the
+terms of this instrument.
+
+S 4.4 Removal, alteration, or obscuring of the Deposit anchors (the
+Zenodo DOI or the OpenTimestamps proof) from any copy is itself an
+additional and independent breach.
+
+========================================================================
+ARTICLE V -- THE PATENT SHIELD
+========================================================================
+
+S 5.1 The license holder expressly and IRREVOCABLY waives the right to
+patent any concept substantially described in the Works. The license
+holder retains full copyright ownership, authorship rights, moral
+rights, and all commercial rights not expressly granted herein.
+
+S 5.2 Any patent application filed by any party that claims ownership
+of any concept substantially described in the Works shall be considered
+invalid by prior art, and the filing party shall be in material breach.
+
+S 5.3 IACONOUS WORTHYSON, as author of this instrument, bears no
 liability for patent disputes arising from the Works of the license
-holder. The patent shield is granted to the license holder as a
-framework; its enforcement is the responsibility of the license
-holder.
+holder. The shield is granted as a framework; its enforcement is the
+responsibility of the license holder.
 
 ========================================================================
-ARTICLE V -- ATTRIBUTION AND THE NAME
+ARTICLE VI -- ATTRIBUTION AND THE NAME
 ========================================================================
 
-S 5.1 All licensed use of the Works must carry the following notice,
-unmodified:
+S 6.1 Every authorized view of the Works, and every reference to them,
+must carry the following notice, unmodified:
 
-    Precision-Allocation-Data -- Created by IACONOUS WORTHYSON .
-    Licensed under The 75th Avenue License -- Exclusive Edition v1.0 .
-    Issuance No. 75AV-EX-002
+    ATACData -- Created by IACONOUS WORTHYSON . Licensed under The 75th
+    Avenue License -- For-Your-Eyes-Only Edition v1.0 . Issuance No.
+    75AV-FYEO-001 . For your eyes only: view permitted, all copying
+    forbidden.
 
-S 5.2 The 75th Avenue name, the name IACONOUS WORTHYSON, and the
-issuance number carried by this instrument must not be altered,
-removed, or misrepresented in any copy or derivative of the Works.
+S 6.2 The 75th Avenue name, the name IACONOUS WORTHYSON, the issuance
+number, and the Deposit anchors must not be altered, removed, or
+misrepresented in any presentation of the Works.
 
-S 5.3 The issuance number is a unique identifier assigned by IACONOUS
-WORTHYSON. It is proof of legitimate acquisition of this License. It
-may be verified against the 75th Avenue issuance register.
+S 6.3 The issuance number is a unique identifier assigned by IACONOUS
+WORTHYSON and may be verified against the 75th Avenue issuance register.
 
 ========================================================================
-ARTICLE VI -- DURATION
+ARTICLE VII -- DURATION
 ========================================================================
 
-S 6.1 This License is perpetual from the date of issuance. There is
-no Change Date. No provision of this instrument converts, expires, or
-opens into any other license at any future date. This is a permanent
-departure from the standard 75th Avenue License, which converts its
-Open Commons tier to the Mozilla Public License 2.0 after four years;
-this Exclusive Edition has no Open Commons tier to convert, and none
-is created by the passage of time.
+S 7.1 This License is perpetual from the date of issuance. There is no
+Change Date. No provision converts, expires, or opens into any other
+license, or into any right beyond sight, at any future date. The
+sight-only character of this Edition is permanent.
 
-S 6.2 A license granted under Article II persists for the term stated
-in that license instrument. Absent a stated term, a purchased license
-is perpetual for the licensee's own use, subject at all times to
-Article III and to termination under S 6.4.
-
-S 6.3 This issuance is non-transferable. It governs one named project
+S 7.2 This issuance is non-transferable. It governs one named project
 only. A new project requires a new issuance.
 
-S 6.4 Termination for breach of Article III is automatic and requires
-no notice. Termination of one party's rights does not affect the
-rights of any other party. The license holder may additionally
-terminate any individual license granted under Article II for
-material breach of that license's own terms, upon the notice (if any)
-stated in that license instrument.
+S 7.3 Termination for breach of Article III is automatic and requires
+no notice. Termination of one party's rights does not affect the rights
+of any other party.
 
 ========================================================================
-ARTICLE VII -- SOLE AUTHORSHIP OF THE WORKS
+ARTICLE VIII -- SOLE AUTHORSHIP OF THE WORKS
 ========================================================================
 
-S 7.1 The license holder declares, by accepting this issuance, that
+S 8.1 The license holder declares, by accepting this issuance, that
 they are the sole author of the Works named herein, or hold all
 necessary rights to govern those Works under this License. No
-co-inventor, partner, employer, contractor, or institutional
-affiliate holds any authorship right or ownership right in the Works
-by virtue of association, funding, or administrative relationship,
-unless expressly declared.
+co-inventor, partner, employer, contractor, or institutional affiliate
+holds any authorship or ownership right in the Works by virtue of
+association, funding, or administrative relationship, unless expressly
+declared.
 
-S 7.2 IACONOUS WORTHYSON bears no liability for misrepresentation of
+S 8.2 IACONOUS WORTHYSON bears no liability for misrepresentation of
 authorship by the license holder.
 
 ========================================================================
-ARTICLE VIII -- THE INSTRUMENT AUTHOR
+ARTICLE IX -- THE INSTRUMENT AUTHOR
 ========================================================================
 
-S 8.1 This License was authored by IACONOUS WORTHYSON under the 75th
+S 9.1 This License was authored by IACONOUS WORTHYSON under the 75th
 Avenue licensing framework. The authorship of this instrument is
 separate from the authorship of the Works it governs.
 
-S 8.2 IACONOUS WORTHYSON holds full copyright over the text and
-structure of this License instrument itself. The instrument may not
-be copied, modified, or reissued without authorisation from IACONOUS
+S 9.2 IACONOUS WORTHYSON holds full copyright over the text and
+structure of this License instrument itself. The instrument may not be
+copied, modified, or reissued without authorisation from IACONOUS
 WORTHYSON.
 
-S 8.3 Use of this License does not constitute endorsement of the
-license holder's Works by IACONOUS WORTHYSON.
+S 9.3 Use of this License does not constitute endorsement of the license
+holder's Works by IACONOUS WORTHYSON.
 
 ========================================================================
-ARTICLE IX -- DISCLAIMER OF WARRANTY
+ARTICLE X -- DISCLAIMER OF WARRANTY
 ========================================================================
 
-THE WORKS ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
-OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTY OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR
-NON-INFRINGEMENT. NEITHER THE LICENSE HOLDER NOR IACONOUS WORTHYSON
-SHALL BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
-FROM USE OF THE WORKS.
+THE WORKS ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTY OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. NEITHER THE
+LICENSE HOLDER NOR IACONOUS WORTHYSON SHALL BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM USE OF, OR SIGHT OF, THE WORKS.
 
 ========================================================================
 
+      For your eyes only. Look, and look only.
       So it is written. So it stands.
 
 IACONOUS WORTHYSON . 75th Avenue . Jerusalem . MMXXVI

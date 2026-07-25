@@ -1,7 +1,22 @@
 {
- "dataset": "Precision-Allocation-Data",
- "issuance": "75AV-EX-002",
+ "dataset": "ATACData",
+ "title": "Per-Tensor Damage and Precision-Allocation Measurements",
+ "author": "IACONOUS WORTHYSON",
+ "license": "The 75th Avenue License -- For-Your-Eyes-Only (FYEO) Edition v1.0",
+ "issuance": "75AV-FYEO-001",
+ "date_of_issue": "2026-07-25",
+ "notice": "For your eyes only: view permitted, all copying forbidden.",
+ "deposit": {
+  "zenodo_doi": "<pending>",
+  "opentimestamps": "<pending: .ots over this MANIFEST.json>"
+ },
+ "hash_algorithm": "sha256",
  "files": [
+  {
+   "path": ".gitignore",
+   "bytes": 95,
+   "sha256": "3790c4bf900864ce1c72f3819eb4e1611d454d2847684c7196299d43203a6845"
+  },
   {
    "path": "activation/zone_matrix.json",
    "bytes": 2236,
@@ -46,6 +61,16 @@
    "path": "data/Qwen3-8B/damage_table.json",
    "bytes": 93322,
    "sha256": "11534a64a3cdac06308ee25ef13b9afdbf9ed0bed427a29aad55500ebd1536be"
+  },
+  {
+   "path": "LICENSE",
+   "bytes": 14379,
+   "sha256": "e051c76280bc1dd76e80d7d03970c47f6d527aa38cbe4250fbf4e0afed6ff435"
+  },
+  {
+   "path": "README.md",
+   "bytes": 9794,
+   "sha256": "05869473dd09503b4ce1f3e1c9d6e231abc88fa8a008fd1fa3d8b874ea7b0897"
   },
   {
    "path": "summary.xlsx",
