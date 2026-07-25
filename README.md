@@ -1,6 +1,6 @@
 # Democratization of A.I.
 
-## READ THE FINE PRINT :: "The license section in this paper"
+READ THE FINE PRINT :: "The license section in this paper"
 
 *by IACONOUS WORTHYSON — Elad David Levi*
 
